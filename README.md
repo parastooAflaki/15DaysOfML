@@ -6,7 +6,8 @@
   
 * Day 2
   
-  Chapter 2 sklearn :
+  Chapter 2 :
+  * House price prediction
   * Handling categorized data
   * Feature Scaling
   * Pipeline , ColumnTransformer
