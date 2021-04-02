@@ -11,3 +11,11 @@
   * Handling categorized data
   * Feature Scaling
   * Pipeline , ColumnTransformer
+
+* Day 3
+
+  Rahnema College
+  
+ * Day 4
+  XGBoost 
+  Kaggle Competition
